@@ -17,8 +17,8 @@ KAI-YOU Medium Tech. 開発メンバーによるタスク振り返り
 
 ただ話を聞いてみたい！という方も是非こちらをご覧ください。
 
-- [【フロントエンジニア】自社サービス／Webメディアの顔であるフロント部分の開発をお任せします！](https://www.green-japan.com/job/119509?case=tlogin)
-- [ポップカルチャーメディアの開発・運営【Web開発エンジニア】](https://paiza.jp/career/job_offers/7450)
+- [【サーバサイドエンジニア】自社サービス／Webメディアの根幹部分の開発をお任せします！](https://www.green-japan.com/job/173263)
+- [自社サービスWebエンジニア【ポップカルチャーを扱うWebメディア】](https://paiza.jp/career/job_offers/14881)
 
 
 ## リンク集
